@@ -1,0 +1,29 @@
+body{
+	background:url(fondoprincipal.png);
+	color:white;
+}
+h2{
+	background:url(fondoletras.png);
+	color:white;
+}
+a{
+	background-color: white ; 
+	font-size:30px;
+}
+p{
+	font-size:25px; 
+}
+input{
+	color:red;
+	font-size:25px; 
+}
+h3{
+	background-color: lime;
+	font-family: arial black;
+	color: white;
+}
+
+h1{
+	background-color: #FA8072;
+	color:#E6E6FA;
+}
